@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("FontHandler")]
-[assembly: AssemblyDescription("Font and Pictogram handling library")]
+[assembly: AssemblyDescription("Matrix-based fontset and pictogram handling library for BurstSoftware products.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("BurstSoftware")]
 [assembly: AssemblyProduct("FontHandler")]
